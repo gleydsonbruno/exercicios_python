@@ -17,17 +17,17 @@ preço do litro do álcool é R$ 1,90.
 
 Mostre o restultado com duas casas decimais
 
-    >>> calcular_abastecimento(10, 'A')
+    >> calcular_abastecimento(10, 'A')
     '10 litro(s) de álcool custa(m): R$ 19.00. Com 3% de desconto, fica R$ 18.43'
-    >>> calcular_abastecimento(20, 'A')
+    >> calcular_abastecimento(20, 'A')
     '20 litro(s) de álcool custa(m): R$ 38.00. Com 3% de desconto, fica R$ 36.86'
-    >>> calcular_abastecimento(30, 'A')
+    >> calcular_abastecimento(30, 'A')
     '30 litro(s) de álcool custa(m): R$ 57.00. Com 5% de desconto, fica R$ 54.15'
-    >>> calcular_abastecimento(10, 'G')
+    >> calcular_abastecimento(10, 'G')
     '10 litro(s) de gasolina custa(m): R$ 25.00. Com 4% de desconto, fica R$ 24.00'
-    >>> calcular_abastecimento(20, 'G')
+    >> calcular_abastecimento(20, 'G')
     '20 litro(s) de gasolina custa(m): R$ 50.00. Com 4% de desconto, fica R$ 48.00'
-    >>> calcular_abastecimento(30, 'G')
+    >> calcular_abastecimento(30, 'G')
     '30 litro(s) de gasolina custa(m): R$ 75.00. Com 6% de desconto, fica R$ 70.50'
 
 """
